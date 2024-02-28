@@ -1,4 +1,4 @@
-Cado built the Vocado app as a Commercial app. This SERVICE is provided by Cado and is intended for use as is.
+**Cado built the Vocado app as a Commercial app. This SERVICE is provided by Cado and is intended for use as is.**
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -14,19 +14,43 @@ The app does use third-party services that may collect information used to ident
 
 Link to the privacy policy of third-party service providers used by the app
 
-Google Play Services
-Google Analytics for Firebase
-Log Data
+- Google Play Services
+- Google Analytics for Firebase
+- Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-Cookies
+**In-App Purchases**
+
+The Vocado app offers in-app purchases, providing additional features or content. By making these purchases, you agree to the following terms:
+
+- **Subscription Details:**
+  - The charges for the in-app purchase are $9.99 per month or $59.99 per year.
+  - Payment will be charged to your account at confirmation of purchase.
+  - Subscriptions automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
+  - Your account will be charged for renewal within 24 hours prior to the end of the current period.
+
+- **Cancellation and Restoration:**
+  - Users can cancel their subscription at any time. Upon cancellation, the subscription will not renew, and access to the premium features will be available until the end of the current billing cycle.
+  - Restoration of purchases is available, allowing users to regain access to their previously purchased in-app content or features.
+
+- **Billing and Account Information:**
+  - Payment information and billing details are handled securely through the respective app store (e.g., Apple App Store, Google Play).
+  - It is the user's responsibility to keep their account information, including payment details, accurate and up to date.
+
+- **Refunds:**
+  - Refunds are subject to the policies of the app store through which the in-app purchase was made.
+
+By engaging in in-app purchases, users acknowledge and accept these terms. For any inquiries or assistance regarding in-app purchases, please contact us at [your contact email].
+
+
+**Cookies**
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
 This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-Service Providers
+**Service Providers**
 
 We may employ third-party companies and individuals due to the following reasons:
 
@@ -36,15 +60,15 @@ To perform Service-related services; or
 To assist us in analyzing how our Service is used.
 We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-Security
+**Security**
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-Links to Other Sites
+**Links to Other Sites**
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Children’s Privacy
+**Children’s Privacy**
 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
 
@@ -54,9 +78,9 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2023-09-29
 
-Contact Us
+**Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at akfn011@naver.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **akfn011@naver.com.**
 
 This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
           
